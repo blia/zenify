@@ -1,0 +1,12 @@
+{
+  "name": "zenify",
+  "version": "0.0.0",
+  "description": "Turn any function into Zen mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["Zen", "Zen coding"],
+  "author": "",
+  "license": "Void"
+}
