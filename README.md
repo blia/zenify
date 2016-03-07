@@ -1,4 +1,4 @@
-Zenyfy
+Zenify
 ======
 
 Turn any function into Zen mode.
